@@ -1,6 +1,6 @@
-# Python file with decorators
+# Python file with decorators and reverse operations
 This python file will ask the user for input and then modify it using a decorator
-## Create enviroment and run program
+## Create enviroment and run programs
 Using conda you will have to run:
 <code> conda env create -f requirements.yaml</code>
 Then activate it
